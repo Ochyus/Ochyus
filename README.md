@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Ochyus
+<!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently in University
-- 💞️ I’m looking to collaborate on Game
+- 💞️ I’m looking to ...
+--->
 - 📫 How to reach me: https://discord.com/invite/7KdNA43BDr
 
 <!---
